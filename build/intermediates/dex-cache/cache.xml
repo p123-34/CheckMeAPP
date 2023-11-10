@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_bfdeb98e137c7020f066d33b8c43f9217567cafe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0f8ea41a59582f3484116b6ae3351ab18b0bd337.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_aa5bcb32abbd10df421a845b21155d02e1d049da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_a15af7a30ba26281070cd56cfd99847081d9f324.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_113b9571f8a6956087d652d3ab0622f5585bf6c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_b62185c76896650ede177987e15f3dc1370490d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_c721c7026a0d18da705f27511707d84685323480.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_a8d027bf4b01ebe54499745a0d5731ca65b1d622.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_c6b3b461dc3af62e6c3a76c94ab71ad422d0d2d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_a1fcb3427678068ecd66bfa8d6397a68f97880c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\NISHIL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_5360c58d2d33314d3b699961b64ff02183527a17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_6a2b8a876c4b4100175779d36b0f501dffecce50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_75b0511bb9248dc6ae7d61411335908b07cd3e73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_1e7d2263370dce6c3ebd8cf3b090349fd8f9934f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_8986827904275415e3fb437a352dd02452b379d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_c863a4d701a6552204ad9140f8b68edd787877ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_e3b4cefd16a9719d744c3c80cb8f0e27c1177cc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_9f814f3999112ab4317865c17a1935dbe898c6e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_6b8979afe60b3241c0a577caee3a949458fb9f17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_8dfebf078b5df7723b89ad5efe49d91c9bfba139.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_1b0d53f45fec488add253b4bb1f9b7b3143c849b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_f0d8a24e9e86630a724a2e3b8027157a3990d25c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_0c8cb7da485872e25a66923b50e437ba7580ea66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_0aa4eb25ed3275a24de93fc35e467db4c19e45b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_752f33599b06e1ac6bf48c622ef32bcd295334de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_74185cb8bf64658dbf06d09494325b63560df528.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_b8f9d94a7ce4421887195601afdd4f0f65453797.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="G:\android\CheckMe\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="G:\android\CheckMe\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_92e7cbad3476c88945708f439f3e5b83301efe44.jar" />
+    </item>
+
+</items>
