@@ -1,1 +1,1 @@
-# CheckMeAPP
+This is a simple app built using Android Studio. The app uses Firebase to aunthenticate for Login and Database to check how many users have logged in and checked the check box.

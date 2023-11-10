@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "83605736351",
+    "firebase_url": "https://checkme-baeca.firebaseio.com",
+    "project_id": "checkme-baeca",
+    "storage_bucket": "checkme-baeca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83605736351:android:08f0808ecc523529",
+        "android_client_info": {
+          "package_name": "com.example.nishilbhavsar.checkme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83605736351-frjjhodkokk3decnnfslbn69ce55pepf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishilbhavsar.checkme",
+            "certificate_hash": "fd2b3ee861902605d491ed4173f5c50634f60376"
+          }
+        },
+        {
+          "client_id": "83605736351-ffqirk6nfrvsplf2qjmom2erqsqjtddr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByOWtZmLj1IZwcyUFv1kx091Xa14hJ9Ns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83605736351-ffqirk6nfrvsplf2qjmom2erqsqjtddr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
